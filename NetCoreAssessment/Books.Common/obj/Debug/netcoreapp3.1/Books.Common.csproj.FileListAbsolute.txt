@@ -1,0 +1,15 @@
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.Common.deps.json
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.Common.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.Common.pdb
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.DTO.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.Models.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.DTO.pdb
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\bin\Debug\netcoreapp3.1\Books.Models.pdb
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.csproj.AssemblyReference.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.AssemblyInfoInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.AssemblyInfo.cs
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.csproj.CoreCompileInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.csproj.CopyComplete
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Common\obj\Debug\netcoreapp3.1\Books.Common.pdb

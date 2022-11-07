@@ -1,0 +1,10 @@
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\bin\Debug\netcoreapp3.1\Books.DTO.deps.json
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\bin\Debug\netcoreapp3.1\Books.DTO.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\bin\Debug\netcoreapp3.1\Books.DTO.pdb
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.csproj.AssemblyReference.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.AssemblyInfoInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.AssemblyInfo.cs
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.csproj.CoreCompileInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.DTO\obj\Debug\netcoreapp3.1\Books.DTO.pdb

@@ -1,0 +1,10 @@
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\bin\Debug\netcoreapp3.1\Books.Models.deps.json
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\bin\Debug\netcoreapp3.1\Books.Models.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\bin\Debug\netcoreapp3.1\Books.Models.pdb
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.csproj.AssemblyReference.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.AssemblyInfoInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.AssemblyInfo.cs
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.csproj.CoreCompileInputs.cache
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.dll
+C:\Users\kartheep\source\repos\NetCoreAssessment\Books.Models\obj\Debug\netcoreapp3.1\Books.Models.pdb

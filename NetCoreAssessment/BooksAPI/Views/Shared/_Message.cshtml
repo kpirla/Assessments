@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Books List";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Response Message</title>
+    <style>
+        .center {
+            position: absolute;
+            top: 50%;
+            left: 30%;
+        }
+    </style>
+</head>
+<body>
+    @if (!string.IsNullOrEmpty(ViewBag.Message))
+    {
+        <div>
+            <div class="center"><b>@ViewBag.Message</b></div>
+        </div>
+    }
+</body>
+</html>
